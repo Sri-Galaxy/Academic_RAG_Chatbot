@@ -1,6 +1,7 @@
 langchain
 langchain-core
 langchain-community
+langchain_google_genai
 pypdf
 pymupdf
 sentence-transformers
